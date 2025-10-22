@@ -13,7 +13,7 @@ The Precision–Recall curve below shows the performance of the segmentation mod
   <img src="ISIC_2017_fm_curves.png" width="600">
 </p>
 
-## URes2Net Model Weights
+## ⚙️ URes2Net Model Weights
 Download the trained model from [Google Drive](https://drive.google.com/file/d/18LT4r3_5nH18q1vjqukkbh-HzOslKnZx/view?usp=sharing).
 ## 📁 File Structure
 
@@ -34,3 +34,11 @@ project_root/
 ├── dataloader.py        
 ├── train.py               
 └── test.py                 
+## 📚 Citation
+
+If you use this work or model in your research, please cite the paper:
+@misc{seyma2025,
+title={URes2Net: U-Net Architecture with Res2Net for Skin Lesion Segmentation},
+author={Karagozoglu, Seyma and Hardalac, Fırat},
+year={2025},
+}
