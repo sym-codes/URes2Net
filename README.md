@@ -4,11 +4,11 @@ Implementation of URes2Net for biomedical semantic segmentation.
 ## 🧠 URes2Net Architecture
 
 <p align="center">
-  <img src="ures2net_model.png" width="600">
+  <img src="ures2net_model.png" width="700">
 </p>
 
 <p align="center">
-  <img src="Res2Block.png" width="600">
+  <img src="Res2Block.png" width="400">
 </p>
 
 ## 📈 Precision–Recall Curve
