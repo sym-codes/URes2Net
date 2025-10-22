@@ -1,6 +1,6 @@
 # URes2Net
 Implementation of URes2Net for biomedical semantic segmentation.
-The model is evaluated on skin lesion dataset. (ISIC-2017)
+The model is evaluated on the ISIC-2017 skin lesion dataset. 
 
 ## 🧠 URes2Net Architecture
 URes2Net biomedical semantic segmentation architecture is as follows.
@@ -12,6 +12,11 @@ Residual blocks used in the URes2Net architecture are as follows.
   <img src="Res2Block.png" width="400">
 </p>
 
+## 📊 Quantitative Comparison
+<p align="center">
+  <img src="results.png" width="600">
+</p>
+
 ## 📈 Precision–Recall Curve
 The Precision–Recall curve below shows the performance of the segmentation model on the ISIC-2017 skin lesion segmentation dataset.  
 
@@ -20,8 +25,14 @@ The Precision–Recall curve below shows the performance of the segmentation mod
 </p>
 
 ## 🎢 F-measure Curve
+The F-measure curve below shows the performance of the segmentation model on the ISIC-2017 skin lesion segmentation dataset.  
 <p align="center">
   <img src="ISIC_2017_fm_curves.png" width="600">
+</p>
+
+## 🖼️ Qualitative Comparison
+<p align="center">
+  <img src="results.png" width="600">
 </p>
 
 ## ⚙️ URes2Net Model Weights
