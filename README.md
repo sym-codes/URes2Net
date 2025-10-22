@@ -2,11 +2,11 @@
 Implementation of URes2Net for biomedical semantic segmentation.
 
 ## 🧠 URes2Net Architecture
-
+URes2Net biomedical semantic segmentation architecture is as follows.
 <p align="center">
   <img src="ures2net_model.png" width="700">
 </p>
-
+Residual blocks used in the URes2Net architecture are as follows.
 <p align="center">
   <img src="Res2Block.png" width="400">
 </p>
