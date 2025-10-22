@@ -3,8 +3,15 @@ Implementation of URes2Net for biomedical semantic segmentation.
 
 ## 📈 Precision–Recall Curve
 The Precision–Recall curve below shows the performance of the segmentation model on the ISIC-2017 skin lesion segmentation dataset.  
-![PR Curve](ISIC_2017_pr_curves.png)
 
+<p align="center">
+  <img src="ISIC_2017_pr_curves.png" width="600">
+</p>
+
+## 🎢 F-measure Curve
+<p align="center">
+  <img src="ISIC_2017_fm_curves.png" width="600">
+</p>
 
 ## URes2Net Model Weights
 Download the trained model from [Google Drive](https://drive.google.com/file/d/18LT4r3_5nH18q1vjqukkbh-HzOslKnZx/view?usp=sharing).
