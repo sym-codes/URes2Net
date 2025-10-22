@@ -1,5 +1,6 @@
 # URes2Net
 Implementation of URes2Net for biomedical semantic segmentation.
+The model is evaluated on skin lesion dataset. (ISIC-2017)
 
 ## 🧠 URes2Net Architecture
 URes2Net biomedical semantic segmentation architecture is as follows.
