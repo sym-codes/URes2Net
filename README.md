@@ -1,6 +1,16 @@
 # URes2Net
 Implementation of URes2Net for biomedical semantic segmentation.
 
+## 🧠 URes2Net Architecture
+
+<p align="center">
+  <img src="ures2net_model.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Res2Block.png" width="600">
+</p>
+
 ## 📈 Precision–Recall Curve
 The Precision–Recall curve below shows the performance of the segmentation model on the ISIC-2017 skin lesion segmentation dataset.  
 
