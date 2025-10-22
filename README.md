@@ -33,8 +33,13 @@ project_root/
 ├── model.py        
 ├── dataloader.py        
 ├── train.py               
-└── test.py                 
-## 📚 Citation
+└── test.py
+              
+
+
+
+
+**## 📚 Citation**
 
 If you use this work or model in your research, please cite the paper:
 @misc{seyma2025,
