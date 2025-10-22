@@ -14,7 +14,7 @@ Residual blocks used in the URes2Net architecture are as follows.
 
 ## 📊 Quantitative Comparison
 <p align="center">
-  <img src="figures/table.png" width="600">
+  <img src="figures/table.png" width="400">
 </p>
 
 ## 📈 Precision–Recall Curve
